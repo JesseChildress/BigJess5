@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio — Jesse Childress</title>
+    <link rel="stylesheet" href="screen.css">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+</head>
+
+
+
+<body>
+
+<header>
+  <div align="center" class="full-width" class="no-underline">
+    <h2 class="no-underline"><a href="index.html">Home</a> —  <a href="about.html">About Me</a> —  <a href="portfolio.html">Portfolio</a></h2>
+        <hr>
+  </div>
+</header>
+
+<div class="content">
+<div align="center">
+<h1>Portfolio</h1>
+</div>
+
+<p><b><a href='https://www.summit.org/resources/reflect/emptiness-secularism-post-malone/'>Post Malone and the Emptiness of Secularism</a></b></p>
+<ul></ul>
+
+<br>
+
+<p><b><a href='https://www.summit.org/resources/reflect/self-worth-identity-selana-gomez/'>A "Rare" Expression of Self-Worth from Selena Gomez</a></b></p>
+<ul></ul>
+
+<br>
+
+<p><b><a href='https://www.summit.org/resources/reflect/suicide-dreams-billie-eilish/'>"Everything I Wanted:" Suicide in Pop Culture</a></b></p>
+<ul></ul>
+
+<br>
+
+<p><b><a href='https://conciliarpost.com/philosophy/aesthetics/beauty-in-the-everyday-living-aesthetically/'>Living Aesthetically: Beauty in the Everyday</a></b></p>
+<ul></ul>
+
+<br>
+
+<p><b><a href='https://www.anselmsociety.org/blog/2020/1/19/sample-centric-genius-post'>Love Thy Neighbor, The Artist</a></b></p>
+<ul></ul>
+
+<footer>
+<hr>
+    <p class="social">
+        <a href="https://www.linkedin.com/in/andrew-childress-9a856427/" target="_blank" ><img src="images/linkedin.png" height="50" width="50"></a>
+        <a href="https://github.com/carhutt" target="_blank" ><img src="images/github.png" height="50" width="50"></a>
+        <a href="mailto:childressandrew@gmail.com" target="_blank" ><img src="images/email.png" height="50" width="50"></a>
+    </p>
+<hr>
+    <p>This website was built by Jesse Childress.</p>
+</footer>
+</div>
+</body>
+</html>
