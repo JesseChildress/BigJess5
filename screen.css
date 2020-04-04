@@ -1,0 +1,81 @@
+/* MY CSS */
+div.content {
+    margin: 20px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px;
+    font-family: 'Lucida Grande', Arial, sans-serif;
+    color: #333;
+    background-color: #fefefe;
+}
+
+@media (max-width: 450px), handheld {
+    img.centered {
+        max-width: 50%;
+    }
+}
+
+header, .full-width {
+    width: 100%;
+    font-family: 'Lucida Grande', Arial, sans-serif;
+    color: #857e78;
+    padding-bottom: 0.125em;
+}
+
+header a {
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+
+.headshot {
+    float: left;
+    margin: 0 20px 10px 10px;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
+
+h2.work {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+h4 {
+    color: #857e78;
+    font-size: 12px;
+}
+
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: 2px solid #d9d9d9;
+    max-width: 600px;
+    max-height: 650px;
+}
+
+footer {
+    margin: 1.2em 0;
+    line-height: 1.2;
+    font-size: 12px;
+    color: #a79e97;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+a:link, a:visited {
+    color: #857e78;
+}
+
+.social {
+    text-align: center;
+}
